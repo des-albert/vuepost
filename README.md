@@ -1,6 +1,6 @@
 # vuepost
 
-This template should help get you started developing with Vue 3 in Vite.
+Application to display posts - dgmsotc.com - Updated June 23, 2024
 
 ## Recommended IDE Setup
 
