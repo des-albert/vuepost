@@ -40,6 +40,9 @@
             <figure v-show="showImage" class="image">
               <img :src="postContent.url" />
             </figure>
+            {{ postContent.url }}
+            <br>
+            {{ postId }}
           </div>
         </div>
       </div>

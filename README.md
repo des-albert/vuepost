@@ -2,6 +2,9 @@
 
 Application to display posts - dgmsotc.com - Updated June 23, 2024
 
+Data stored in Firebase - vueFire
+Images stored in Cloudinary
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
